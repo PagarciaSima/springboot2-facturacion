@@ -1,0 +1,14 @@
+.icono {
+  font-size: 3em;
+}
+.tablaListar{
+	background-image: url('/images/fondo.jpg');
+	background-size: cover; 
+	object-fit: cover;
+}
+
+.miFooter{
+	background-image: url('/images/footer.jpg');
+	background-size: cover; 
+	object-fit: cover;
+}
